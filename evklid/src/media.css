@@ -316,6 +316,8 @@
 
     /*HERO 768*/
     .hero__container {
+        margin-right: auto;
+        margin-left: auto;
         max-width: 668px;
         min-height: 662px;
         flex-direction: column;
