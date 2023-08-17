@@ -506,7 +506,7 @@ body {
 }
 
 .element-right__1, .element-right__2 {
-    width: 870px;
+    max-width: calc(100%);
     min-height: 295px;
     flex-direction: column;
     padding: 65px 116px 45px 38px;

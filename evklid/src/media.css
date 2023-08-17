@@ -1,4 +1,4 @@
-@media ( max-width: 1724px) {
+@media ( max-width: 1456px) {
 
     body {
         /*max-width: 1920px;*/
@@ -16,6 +16,7 @@
     }
 
     .header__container {
+        max-width: 1024px;
         padding: 14px 50px 10px 50px;
     }
 
